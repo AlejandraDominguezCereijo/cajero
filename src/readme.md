@@ -15,9 +15,3 @@ H[Fin]
 
 ```
 ------
-
-```mermaid
-classDiagram
-Cajero <|-- Duck
-
-```
